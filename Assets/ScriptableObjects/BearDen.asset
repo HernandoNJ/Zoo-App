@@ -16,4 +16,4 @@ MonoBehaviour:
   description: LARGE POPULATIONS OF THE BEAR INHABITING NORTH AMERICA AND THROUGOUT
     THE WORLD
   exhibit: GRIZZLY BEAR, AMERICAN BROWN BEAR, BLACK BEAR, POLAR BEAR
-  animalImage: {fileID: 21300000, guid: c323ddf58bf76144196899edda53ca26, type: 3}
+  animalSprite: {fileID: 21300000, guid: c323ddf58bf76144196899edda53ca26, type: 3}

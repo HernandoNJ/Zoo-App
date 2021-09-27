@@ -16,4 +16,4 @@ MonoBehaviour:
   description: FROM TINY PREDATORS TO THE LARGEST OF THE CAT FAMILY, THESE BEASTS
     ROAM THE PLAINS AND CAPTURE OUR HEARTS
   exhibit: 'ANIMALS IN THIS EXHIBIT: LIONS, TIGERS, CHEETAHS'
-  animalImage: {fileID: 21300000, guid: d8113462a844baa4f847dbfbc9bce42d, type: 3}
+  animalSprite: {fileID: 21300000, guid: d8113462a844baa4f847dbfbc9bce42d, type: 3}

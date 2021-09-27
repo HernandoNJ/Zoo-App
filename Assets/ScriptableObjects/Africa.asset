@@ -16,4 +16,4 @@ MonoBehaviour:
   description: 'AFRICA IS HOME TO MANY OF THE WORLDS MOST FAMOUS ANIMALS: ZEBRAS,
     GIRAFFES, HIPPOS AND CROCODILES ARE ALL FOUND IN THE WILD CONTINENT'
   exhibit: 'ANIMALS IN THIS EXHIBIT: ZEBRA, GIRAFFE, CROCODILES, AFRICAN HARE'
-  animalImage: {fileID: 21300000, guid: 1bcea4ad94e1bbd45bcdb8a6aeaa9ab9, type: 3}
+  animalSprite: {fileID: 21300000, guid: 1bcea4ad94e1bbd45bcdb8a6aeaa9ab9, type: 3}

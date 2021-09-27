@@ -6,7 +6,7 @@ public class CardModel : ScriptableObject
     public string title;
     public string description;
     public string exhibit;
-    public Sprite animalImage;
+    public Sprite animalSprite;
 }
 
 

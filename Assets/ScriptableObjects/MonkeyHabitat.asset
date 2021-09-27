@@ -16,4 +16,4 @@ MonoBehaviour:
   description: COME TO TAKE A LOOK AT ALL THE VARIETIES OF PRIMATES FROM AROUND THE
     WORLD
   exhibit: 'ANIMALS IN THIS EXHIBIT: MONKEYS, GORILLAS, BABOONS'
-  animalImage: {fileID: 21300000, guid: 3dd1d2bc0c548de4cbea5308fe3791ec, type: 3}
+  animalSprite: {fileID: 21300000, guid: 3dd1d2bc0c548de4cbea5308fe3791ec, type: 3}
